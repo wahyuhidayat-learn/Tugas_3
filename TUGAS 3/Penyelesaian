@@ -1,0 +1,7 @@
+PENJELASAN PENGERJAAN
+
+-Untuk membuat teks pada link navbar menjadi bold saat dihover, tambahkan properti font-weight: bold; pada nav ul li a:hover.
+-Pastikan margin dan padding pada elemen main sesuai dengan desain yang diinginkan.
+-Untuk membuat tombol menjadi rounded, tambahkan border-radius pada .text button
+-memastikan styling pada footer sesuai dengan desain yang diinginkan.
+-Pastikan gambar bola (#balls) memiliki ukuran dan posisi yang sesuai.
